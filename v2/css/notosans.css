@@ -1,0 +1,93 @@
+@font-face {
+	font-family: 	 'NotoSansArabic-Bold';
+	src: url('../font/NotoSansArabic-Bold.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSansArabic-CondensedBold';
+	src: url('../font/NotoSansArabic-CondensedBold.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSansArabic-CondensedSemiBold';
+	src: url('../font/NotoSansArabic-CondensedSemiBold.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSansArabic-Medium';
+	src: url('../font/NotoSansArabic-Medium.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSansArabic-CondensedMedium';
+	src: url('../font/NotoSansArabic-CondensedMedium.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSansArmenian-Bold';
+	src: url('../font/NotoSansArmenian-Bold.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSansArmenian-Medium';
+	src: url('../font/NotoSansArmenian-Medium.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSansBengali-Bold';
+	src: url('../font/NotoSansBengali-Bold.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSansBengali-Medium';
+	src: url('../font/NotoSansBengali-Medium.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSans-Bold';
+	src: url('../font/NotoSans-Bold.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSansCherokee-Bold';
+	src: url('../font/NotoSansCherokee-Bold.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSansCJKjp-Black';
+	src: url('../font/NotoSansCJKjp-Black.otf') format('opentype');
+}
+@font-face {
+	font-family: 	 'NotoSansCJKjp-Bold';
+	src: url('../font/NotoSansCJKjp-Bold.otf') format('opentype');
+}
+@font-face {
+	font-family: 	 'NotoSansCJKjp-Medium';
+	src: url('../font/NotoSansCJKjp-Medium.otf') format('opentype');
+}
+@font-face {
+	font-family: 	 'NotoSansDevanagari-Bold';
+	src: url('../font/NotoSansDevanagari-Bold.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSansHebrew-Bold';
+	src: url('../font/NotoSansHebrew-Bold.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSansHebrew-Medium';
+	src: url('../font/NotoSansHebrew-Medium.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSans-Medium';
+	src: url('../font/NotoSans-Medium.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSans-SemiBold';
+	src: url('../font/NotoSans-SemiBold.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSansThaana-Regular';
+	src: url('../font/NotoSansThaana-Regular.ttf');
+}
+
+@font-face {
+	font-family: 	 'NotoSansCJKjp-Black-83pv-RKSJ-H';
+	src: url('../font/NotoSansCJKjp-Black.otf') format('opentype');
+}
+@font-face {
+	font-family: 	 'NotoSansCJKjp-Bold-83pv-RKSJ-H';
+	src: url('../font/NotoSansCJKjp-Bold.otf') format('opentype');
+}
+@font-face {
+	font-family: 	 'NotoSansCJKjp-Medium-83pv-RKSJ-H';
+	src: url('../font/NotoSansCJKjp-Medium.otf') format('opentype');
+}
