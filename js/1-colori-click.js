@@ -6,12 +6,14 @@ $(document).ready(function(){
 	
 	$("#menu_lingue_hover").click(function() {
     	$(".menu_lingue").show("fast");
-    	$("#menu_lingue_hover line").hide();
+    	$("#menu_lingue_hover line").hide("fast");
+    	$("#menu_lingue_hover text").hide("fast");
 	});
 	
 	$(".menu_lingue").click(function() {
     	$(".menu_lingue").hide("fast");
-    	$("#menu_lingue_hover line").show();
+    	$("#menu_lingue_hover line").show("fast");
+    	$("#menu_lingue_hover text").show("fast");
 	});
 	
 	/* 01 */
