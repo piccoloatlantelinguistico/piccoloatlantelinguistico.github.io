@@ -1,0 +1,43 @@
+html {
+	-ms-overflow-style: none;
+	scrollbar-width: none;
+}
+
+html::-webkit-scrollbar {
+	display: none;
+}
+
+.st0{font-family:'Vollkorn-Black';}
+.st1{font-size:37px;}
+.st2{font-family:'Vollkorn-BoldItalic';}
+.st3{font-size:26px;}
+.st4{letter-spacing:1;}
+.st5{fill:#EA5239;}
+.st6{font-family:'Montserrat-Light';}
+.st7{font-size:17px;}
+.st8{fill:none;stroke:#000000;stroke-miterlimit:10;}
+.st9{fill:none;stroke:#EA5239;stroke-miterlimit:10;}
+.st10{fill:none;stroke:#EA5239;stroke-width:0.75;stroke-miterlimit:10;}
+.st11{font-family:'Montserrat-Regular';}
+.st12{font-size:14px;}
+.st13{fill:#FFFFFF;}
+.st14{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+.st15{display:none;}
+.st16{display:inline;}
+.st17{font-family:'Montserrat-Medium';}
+.st18{font-size:18px;}
+.st19{font-family:'NotoSansArabic-CondensedMedium';}
+.st20{font-family:'NotoSansArabic-CondensedBold';}
+.st21{font-family:'NotoSans-Medium';}
+.st22{font-family:'NotoSansArabic-CondensedSemiBold';}
+.st23{font-family:'NotoSansBengali-Medium';}
+.st24{letter-spacing:11;}
+.st25{font-family:'NotoSans-SemiBold';}
+.st26{letter-spacing:3;}
+.st27{font-family:'NotoSansCJKjp-Medium-83pv-RKSJ-H';}
+.st28{font-family:'NotoSans-Bold';}
+.st29{font-family:'NotoSansHebrew-Medium';}
+.st30{letter-spacing:2;}
+.st31{font-family:'NotoSansArabic-Medium';}
+.st32{letter-spacing:4;}
+.st33{letter-spacing:8;}
