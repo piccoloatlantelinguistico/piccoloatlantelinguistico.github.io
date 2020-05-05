@@ -1,0 +1,35 @@
+html {
+	-ms-overflow-style: none;
+	scrollbar-width: none;
+}
+
+html::-webkit-scrollbar {
+	display: none;
+}
+
+body {
+	background:#09AEC4;
+}
+
+#thesis {
+	letter-spacing: 1.1px;
+}
+
+.stx {
+	letter-spacing: 1px;
+}
+
+.input {
+	background-color: #fff;
+	border: 0;
+	font-family: 'Montserrat-Regular';
+	font-size: 20px;
+	color: #09AEC4;
+	width: 460px;
+	height: 48px;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+.input::placeholder {
+	color: #09AEC4;
+}
