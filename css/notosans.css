@@ -19,12 +19,20 @@
 	src: url('../font/NotoSansArabic-CondensedMedium.ttf');
 }
 @font-face {
+	font-family: 	 'NotoSansArabic-Light';
+	src: url('../font/NotoSansArabic-Light.ttf');
+}
+@font-face {
 	font-family: 	 'NotoSansArmenian-Bold';
 	src: url('../font/NotoSansArmenian-Bold.ttf');
 }
 @font-face {
 	font-family: 	 'NotoSansArmenian-Medium';
 	src: url('../font/NotoSansArmenian-Medium.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSansArmenian-Light';
+	src: url('../font/NotoSansArmenian-Light.ttf');
 }
 @font-face {
 	font-family: 	 'NotoSansBengali-Bold';
@@ -67,12 +75,20 @@
 	src: url('../font/NotoSansHebrew-Medium.ttf');
 }
 @font-face {
+	font-family: 	 'NotoSansHebrew-Light';
+	src: url('../font/NotoSansHebrew-Light.ttf');
+}
+@font-face {
 	font-family: 	 'NotoSans-Medium';
 	src: url('../font/NotoSans-Medium.ttf');
 }
 @font-face {
 	font-family: 	 'NotoSans-SemiBold';
 	src: url('../font/NotoSans-SemiBold.ttf');
+}
+@font-face {
+	font-family: 	 'NotoSans-LightItalic';
+	src: url('../font/NotoSans-LightItalic.ttf');
 }
 @font-face {
 	font-family: 	 'NotoSansThaana-Regular';
