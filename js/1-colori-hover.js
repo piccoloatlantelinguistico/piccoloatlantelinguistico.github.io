@@ -4,7 +4,7 @@ $(document).ready(function(){
 	
 	$("#more").attr({href:"1-more-colori.html"});
 	
-	$("#zulu").hide();
+	$("#french").hide();
 	
 	/* 01 */
 	$("#abenaki_colori").hover(

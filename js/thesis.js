@@ -8,10 +8,9 @@ $(document).ready(function(){
 	$("#link_feelings").attr({href:"https://diopd.org/library/tools-methods/",target:"_blank"});
 	$("#link_time").attr({href:"http://www.thetimeparadox.com/zimbardo-time-perspective-inventory/",target:"_blank"});
 	
-	$("#link_thesis").attr({href:"#",target:"_blank"});
-	$("#link_piccolo_atlante_linguistico").attr({href:"#",target:"_blank"});
+	$("#link_thesis").attr({href:"pdf/thesis.pdf",target:"_blank"});
 	$("#link_infopoetry").attr({href:"https://infopoetry.densitydesign.org/infopoetries/the-colours-of-languages.html",target:"_blank"});
 	
-	$("#link_email").attr({href:"mailto:piccoloatlantelinguistico@gmail.com",target:"_blank"});
+	$("#link_email").attr({href:"mailto:info@piccoloatlantelinguistico.it",target:"_blank"});
 	
 });

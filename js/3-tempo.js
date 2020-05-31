@@ -4,8 +4,6 @@ $(document).ready(function(){
 	
 	$("#more").attr({href:"3-more-tempo.html"});
 	
-	$("#yiddish_parole").hide();
-	
 	/* 01 */
 	$("#afrikaans").hover(
 		function() {
